@@ -1,5 +1,7 @@
 # Dicee 🎲
 
+<p align="center"><br><img src="https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif" height="440" width="auto"><br><br></p>
+
 ## Goal
 
 The objective of making this app is to learn the core programming concepts that will form the foundation of most of the apps I build in the future. This app tought how to make apps with functionality using setState() inside Stateful Flutter widgets.
